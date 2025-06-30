@@ -4,8 +4,8 @@ This repository hosts the legal documents for the AK Team Fitness mobile applica
 
 ## Documents
 
-- [Privacy Policy](https://[your-username].github.io/akteam-legal/privacy-policy.html)
-- [Terms of Service](https://[your-username].github.io/akteam-legal/terms-of-service.html)
+- [Privacy Policy](https://antonioguerraa.github.io/akteam-legal/privacy-policy.html)
+- [Terms of Service](https://antonioguerraa.github.io/akteam-legal/terms-of-service.html)
 
 ## About AK Team
 
